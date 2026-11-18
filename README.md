@@ -1,57 +1,97 @@
-<h1 align="center">Hi, I'm Diya 👋</h1> <h3 align="center">Full-Stack Developer · Security & AI Builder · Hackathon Team Lead</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Network+Forensics+Platforms;Full-Stack+%7C+Django+%2B+React;AI-Powered+Verification+%26+Detection;Zero+to+Deployed" alt="Typing SVG" /> </p>
-About Me
+<h1 align="center">Hi, I'm Diya Patel 👋</h1>
 
-I'm a student developer who builds complete, working systems rather than prototypes. I work across the stack, from Django REST backends and real-time pipelines to React/TypeScript dashboards, and I regularly lead hackathon teams from idea to deployment.
+<h3 align="center">🛡️ Cybersecurity Student | Network Forensics | Threat Detection</h3>
 
-My focus is on network security, digital forensics, and AI-driven tools that solve real problems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Network+Defense;Network+Forensics+%7C+Threat+Detection;MITRE+ATT%26CK+Mapping;Building+Practical+Security+Solutions" alt="Typing SVG" />
+</p>
 
-🛡️ Building an enterprise-grade Network Detection & Response platform
-⚙️ Full-stack development with Django REST Framework and React + TypeScript
-🏆 Hackathon project lead and technical coordinator
-🔍 Interested in forensics, threat detection, and security automation
-Featured Projects
-🛡️ V-Sniffers — Network Packet Forensics Platform (NETRAIC)
+---
 
-An enterprise NDR platform for forensic network traffic analysis, built for a problem statement from the Cyber Crime Branch, Ahmedabad City. It replaces a fragmented workflow of separate capture, detection, and analysis tools with one unified pipeline.
+## About Me
 
-Detection against real traffic and datasets, with MITRE ATT&CK mapping
-Web attack detection: SQLi, XSS, LFI/RFI, command injection, SSRF, XXE, request smuggling, and more
-Evidence vault with RSA digital signatures and chain-of-custody tracking
-PDF forensic reports with cryptographic hashing
-Real-time dashboard over WebSockets (Django Channels), JWT auth, 2-step OTP email verification
+I'm a cybersecurity student focused on **network security, digital forensics, and threat detection**. I like turning security concepts into practical, working tools, and I've taken part in hackathons where I built and led security-focused projects.
 
-Stack: Python · Django REST Framework · Django Channels · React · TypeScript · Vite
+- 🔍 Network traffic analysis and PCAP forensics
+- 🛡️ Threat detection and web attack analysis
+- 🧭 MITRE ATT&CK mapping
+- 🤖 Applying AI to security problems
+- 🏆 Hackathon participant and project lead
 
-🔎 TruthShield — AI Content Verification
+---
 
-An AI-powered platform for verifying digital content, taken from zero to a fully deployed full-stack application. I led the team and coordinated backend/AI and frontend work.
+## Featured Projects
 
-Text, image, audio, and URL analysis
-JWT authentication and PDF reporting
-Chrome extension endpoint
+### 🛡️ V-Sniffers — Network Packet Forensics Platform (NETRAIC)
+An enterprise-style Network Detection & Response platform built for a problem statement from the Cyber Crime Branch, Ahmedabad City. It brings capture, detection, and analysis into one workflow instead of juggling separate tools.
 
-Stack: Full-stack web · AI/ML · JWT · Chrome Extension API
+- PCAP analysis using real traffic and datasets
+- Web attack detection: SQLi, XSS, directory traversal, LFI/RFI, command injection, web shells, SSRF, XXE, request smuggling
+- Detections mapped to MITRE ATT&CK
+- Evidence vault with digital signatures and chain-of-custody tracking
+- Cryptographically hashed PDF forensic reports
 
-📡 Wifi Phantom
+**Focus:** Network Forensics · Threat Detection · MITRE ATT&CK · Digital Evidence
 
-A wireless security project built as an early hands-on build.
+---
 
-🔗 View repository
+### 🔎 TruthShield — AI Content Verification
+An AI-powered platform for verifying digital content (text, image, audio, URLs), built for a hackathon and taken from idea to a deployed application. I led the team.
 
-Tech Stack
-<p> <img src="https://skillicons.dev/icons?i=python,django,react,ts,js,html,css,docker,git,github,linux&theme=dark" /> </p>
-Area	Tools
-Backend	Django, Django REST Framework, Django Channels, JWT, WebSockets
-Frontend	React, TypeScript, Vite
-Security	Wireshark, PCAP analysis, MITRE ATT&CK, digital forensics
-Deployment	Render, Docker
-Currently Working On
-Extending NETRAIC toward live traffic analysis and the remaining detection layers
-Polishing demos, documentation, and deployment for hackathon showcases
-Open To
-Hackathon teams and open-source security projects
-Full-stack and security-focused internships
-GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
-Connect
-<p align="center"> <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> <p align="center"><i>Build. Ship. Secure.</i></p>
+**Focus:** Misinformation Detection · AI · Hackathon Project
+
+---
+
+### 📡 Wifi Phantom
+A wireless security project from my early hands-on work.
+
+🔗 [View repository](https://github.com/USERNAME/wifi-phantom)
+
+---
+
+## Cybersecurity Domains
+
+| Domain | Areas of Interest |
+| --- | --- |
+| Network Security | Packet Analysis, Traffic Monitoring |
+| Threat Detection | Web Attack Detection, MITRE ATT&CK Mapping |
+| Digital Forensics | PCAP Forensics, Evidence Integrity, Chain of Custody |
+| AI in Security | Detection, Content Verification |
+
+---
+
+## Currently Learning
+
+- Advanced Network Security
+- Threat Detection and Security Monitoring
+- Digital Forensics
+- AI-Driven Cybersecurity
+
+---
+
+## Let's Collaborate
+
+- Network security and forensics projects
+- Open-source security tools
+- Hackathons and cybersecurity competitions
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Learn. Analyze. Detect. Secure.</i></p>

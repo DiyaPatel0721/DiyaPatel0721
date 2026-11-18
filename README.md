@@ -1,118 +1,142 @@
 # 👋 Hi, I'm Diya Patel
 
-### 🛡️ Cybersecurity Enthusiast | Network Security | Ethical Hacking | Digital Forensics | AI Security
+\<h3 align="center">   🛡️ Cybersecurity Student | SOC Operations | Network Security | Digital Forensics \</h3>
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Exploring+the+World+of+Cybersecurity;Building+Practical+Security+Solutions;Network+Defense+%7C+Threat+Detection;AI-Powered+Cybersecurity+Research](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=800\&lines=Exploring+the+World+of+Cybersecurity;Building+Practical+Security+Solutions;Network+Defense+%7C+Threat+Detection;AI-Powered+Cybersecurity+Research)" alt="Typing SVG" /> \</p>
+\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Cybersecurity+%7C+Network+Defense;Ethical+Hacking+%7C+Digital+Forensics;AI-Powered+Threat+Detection;Building+Practical+Security+Solutions](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=750\&lines=Cybersecurity+%7C+Network+Defense;Ethical+Hacking+%7C+Digital+Forensics;AI-Powered+Threat+Detection;Building+Practical+Security+Solutions)" alt="Typing SVG" /> \</p>
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Focus-Cybersecurity-0A192F?style=for-the-badge&logo=kalilinux&logoColor=white](https://img.shields.io/badge/Focus-Cybersecurity-0A192F?style=for-the-badge\&logo=kalilinux\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Interest-AI%20%26%20Security-0A192F?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Interest-AI%20%26%20Security-0A192F?style=for-the-badge\&logo=python\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Approach-Continuous%20Learning-0A192F?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Approach-Continuous%20Learning-0A192F?style=for-the-badge\&logo=github\&logoColor=white)" /> \</p>
+\<p align="center">   \<img src="[https://img.shields.io/badge/Cybersecurity-Student-0B1F33?style=for-the-badge&logo=kalilinux&logoColor=white](https://img.shields.io/badge/Cybersecurity-Student-0B1F33?style=for-the-badge\&logo=kalilinux\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Network-Security-0B1F33?style=for-the-badge&logo=wireshark&logoColor=white](https://img.shields.io/badge/Network-Security-0B1F33?style=for-the-badge\&logo=wireshark\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/AI-Security-0B1F33?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/AI-Security-0B1F33?style=for-the-badge\&logo=python\&logoColor=white)" /> \</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-I'm passionate about cybersecurity, network defense, digital forensics, and developing intelligent security solutions.
+I'm Diya Patel, a cybersecurity student interested in securing digital infrastructure, investigating security incidents, and developing practical security solutions.
 
-I enjoy exploring security technologies, building practical cybersecurity labs, analyzing network traffic, and developing tools that address real-world security challenges.
+I enjoy working with cybersecurity tools, analyzing network traffic, building virtual security labs, and experimenting with AI/ML techniques for threat detection.
 
-My technical interests combine cybersecurity practices with Python development, machine learning, network analysis, and infrastructure security.
+My interests span both offensive and defensive security, with a particular focus on network security, SOC operations, digital forensics, and AI-driven cybersecurity.
 
-- 🔐 Interested in Network Security, Ethical Hacking & Information Security.
-- 🛡️ Exploring SOC Operations, Threat Detection & Network Defense.
-- 🔬 Interested in Digital Forensics and Security Research.
-- 🤖 Developing AI/ML-based cybersecurity solutions.
+- 🔐 Exploring Network Security and Ethical Hacking.
+- 🛡️ Practising SOC Operations and Threat Detection.
+- 🔍 Interested in Digital Forensics and Network Investigation.
+- 🤖 Building Python-based and AI-powered cybersecurity projects.
 - 🌐 Exploring Industrial Control Systems (ICS) and OT Security.
-- 🧪 Practising through virtual labs and cybersecurity learning platforms.
-- 🤝 Interested in open-source cybersecurity collaboration.
+- 🧪 Developing practical cybersecurity labs and environments.
+- 🤝 Interested in open-source security projects and collaboration.
 
 ---
 
-## 🎯 Areas of Interest
+## 🎯 Cybersecurity Domains
 
-| Domain                  | Focus Areas                                                 |
-| ----------------------- | ----------------------------------------------------------- |
-| Network Security        | Network Monitoring, Packet Analysis, Firewall Configuration |
-| Ethical Hacking         | Reconnaissance, Web Security, Vulnerability Assessment      |
-| SOC & Blue Team         | Log Analysis, Threat Detection, Security Monitoring         |
-| Digital Forensics       | Evidence Examination, File Metadata, Forensic Analysis      |
-| AI in Cybersecurity     | Anomaly Detection, Machine Learning, Autoencoders           |
-| Infrastructure Security | Active Directory, Network Segmentation, System Hardening    |
-| Industrial Security     | ICS, OT Security, PLC Environments, MQTT                    |
+| Domain                  | Areas of Interest                                      |
+| ----------------------- | ------------------------------------------------------ |
+| Network Security        | Packet Analysis, Network Monitoring, Firewalls         |
+| Ethical Hacking         | Reconnaissance, Web Security, Vulnerability Assessment |
+| SOC Operations          | Log Analysis, Threat Detection, Security Monitoring    |
+| Digital Forensics       | Evidence Analysis, Metadata Examination                |
+| AI in Cybersecurity     | Anomaly Detection, Machine Learning                    |
+| Infrastructure Security | Active Directory, Network Segmentation                 |
+| Industrial Security     | ICS, OT Security, PLC, MQTT                            |
 
 ---
 
-## 🛠️ Technical Skills & Tools
+## 🛠️ Technical Skills & Technologies
 
 ### Programming Languages
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=python,java,c,cpp,js,html,mysql&theme=dark](https://skillicons.dev/icons?i=python,java,c,cpp,js,html,mysql\&theme=dark)" /> \</p>
-
-*Foundational programming knowledge across these languages, with Python as a key development language.*
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,java,c,cpp,js,html,mysql&theme=dark](https://skillicons.dev/icons?i=python,java,c,cpp,js,html,mysql\&theme=dark)" />
+\</p>
 
 ### Cybersecurity & Network Analysis
 
-\<p>   \<img src="[https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Nmap-214478?style=flat-square](https://img.shields.io/badge/Nmap-214478?style=flat-square)" />   \<img src="[https://img.shields.io/badge/TCPdump-333333?style=flat-square](https://img.shields.io/badge/TCPdump-333333?style=flat-square)" />   \<img src="[https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square\&logo=burpsuite\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Gobuster-222222?style=flat-square](https://img.shields.io/badge/Gobuster-222222?style=flat-square)" />   \<img src="[https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square\&logo=kalilinux\&logoColor=white)" /> \</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square\&logo=kalilinux\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Nmap-214478?style=flat-square](https://img.shields.io/badge/Nmap-214478?style=flat-square)" />
+&#x20; \<img src="[https://img.shields.io/badge/TCPdump-333333?style=flat-square](https://img.shields.io/badge/TCPdump-333333?style=flat-square)" />
+&#x20; \<img src="[https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square\&logo=burpsuite\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Gobuster-222222?style=flat-square](https://img.shields.io/badge/Gobuster-222222?style=flat-square)" />
+\</p>
 
 ### Digital Forensics
 
-\<p>   \<img src="[https://img.shields.io/badge/Autopsy-263238?style=flat-square](https://img.shields.io/badge/Autopsy-263238?style=flat-square)" />   \<img src="[https://img.shields.io/badge/FTK%20Imager-1B365D?style=flat-square](https://img.shields.io/badge/FTK%20Imager-1B365D?style=flat-square)" />   \<img src="[https://img.shields.io/badge/ExifTool-444444?style=flat-square](https://img.shields.io/badge/ExifTool-444444?style=flat-square)" /> \</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Autopsy-263238?style=flat-square](https://img.shields.io/badge/Autopsy-263238?style=flat-square)" />
+&#x20; \<img src="[https://img.shields.io/badge/FTK_Imager-1B365D?style=flat-square](https://img.shields.io/badge/FTK_Imager-1B365D?style=flat-square)" />
+&#x20; \<img src="[https://img.shields.io/badge/ExifTool-444444?style=flat-square](https://img.shields.io/badge/ExifTool-444444?style=flat-square)" />
+\</p>
 
-### Network & Infrastructure Security
+### Infrastructure & Development
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=linux,ubuntu,docker,windows&theme=dark](https://skillicons.dev/icons?i=linux,ubuntu,docker,windows\&theme=dark)" />   \<img src="[https://img.shields.io/badge/OPNsense-EF7D00?style=flat-square](https://img.shields.io/badge/OPNsense-EF7D00?style=flat-square)" />   \<img src="[https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white](https://img.shields.io/badge/VMware-607078?style=flat-square\&logo=vmware\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Security%20Onion-222222?style=flat-square](https://img.shields.io/badge/Security%20Onion-222222?style=flat-square)" /> \</p>
-
-### Development & Automation
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=python,django,git,github,docker&theme=dark](https://skillicons.dev/icons?i=python,django,git,github,docker\&theme=dark)" /> \</p>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,django&theme=dark](https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,django\&theme=dark)" />
+&#x20; \<img src="[https://img.shields.io/badge/OPNsense-EF7D00?style=flat-square](https://img.shields.io/badge/OPNsense-EF7D00?style=flat-square)" />
+&#x20; \<img src="[https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white](https://img.shields.io/badge/VMware-607078?style=flat-square\&logo=vmware\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Security_Onion-222222?style=flat-square](https://img.shields.io/badge/Security_Onion-222222?style=flat-square)" />
+\</p>
 
 ### AI & Machine Learning
 
-\<p>   \<img src="[https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Isolation%20Forest-2563EB?style=flat-square](https://img.shields.io/badge/Isolation%20Forest-2563EB?style=flat-square)" />   \<img src="[https://img.shields.io/badge/Autoencoders-7C3AED?style=flat-square](https://img.shields.io/badge/Autoencoders-7C3AED?style=flat-square)" />   \<img src="[https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square\&logo=googlecolab\&logoColor=black)" /> \</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Isolation_Forest-2563EB?style=flat-square](https://img.shields.io/badge/Isolation_Forest-2563EB?style=flat-square)" />
+&#x20; \<img src="[https://img.shields.io/badge/Autoencoders-7C3AED?style=flat-square](https://img.shields.io/badge/Autoencoders-7C3AED?style=flat-square)" />
+&#x20; \<img src="[https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square\&logo=googlecolab\&logoColor=black)" />
+\</p>
 
 ### Industrial & OT Security
 
-\<p>   \<img src="[https://img.shields.io/badge/OpenPLC-263238?style=flat-square](https://img.shields.io/badge/OpenPLC-263238?style=flat-square)" />   \<img src="[https://img.shields.io/badge/ScadaBR-1565C0?style=flat-square](https://img.shields.io/badge/ScadaBR-1565C0?style=flat-square)" />   \<img src="[https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white](https://img.shields.io/badge/MQTT-660066?style=flat-square\&logo=eclipsemosquitto\&logoColor=white)" /> \</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/OpenPLC-263238?style=flat-square](https://img.shields.io/badge/OpenPLC-263238?style=flat-square)" />
+&#x20; \<img src="[https://img.shields.io/badge/ScadaBR-1565C0?style=flat-square](https://img.shields.io/badge/ScadaBR-1565C0?style=flat-square)" />
+&#x20; \<img src="[https://img.shields.io/badge/MQTT-660066?style=flat-square](https://img.shields.io/badge/MQTT-660066?style=flat-square)" />
+\</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. 🛡️ BlackShield — AI Firewall Rule Generator
+### 🛡️ 1. BlackShield — AI Firewall Rule Generator
 
-A Python-based tool designed to convert natural language instructions into firewall rules across multiple environments.
+A Python-based cybersecurity project designed to convert natural language instructions into firewall rules.
 
 **Key Features**
 
 - Natural language-based firewall rule generation.
-- Supports Linux IPTables, Ubuntu UFW, Windows PowerShell and Cisco ASA.
+- Supports Linux IPTables and Ubuntu UFW.
+- Supports Windows PowerShell and Cisco ASA.
 - AI-powered firewall rule explanation and optimization.
-- Batch processing and automated rule generation.
-- Logging and rule management functionality.
+- Batch processing, logging, and automated rule generation.
 
 **Technologies:** Python, AI, IPTables, UFW, PowerShell, Firewall Automation.
 
+🔗 **Repository:** [Black-Shield](https://github.com/DivaPatel0721/Black-Shield)
+
 ---
 
-### 2. 🤖 NETRAIC — AI-Powered Network Threat Detection
+### 🤖 2. NETRAIC — AI-Powered Network Threat Detection
 
-An AI-based network anomaly detection system focused on identifying unusual network activity through machine learning.
+An AI-based network anomaly detection project focused on identifying unusual network activity.
 
 **Key Features**
 
 - Implements Isolation Forest and Autoencoder models.
-- Explores machine learning approaches to network anomaly detection.
+- Explores machine learning techniques for network anomaly detection.
 - Focuses on network traffic analysis and threat detection.
 
 **Technologies:** Python, Scikit-learn, Machine Learning, Isolation Forest, Autoencoders.
 
 ---
 
-### 3. 🖥️ Windows Server & Active Directory Virtual Lab
+### 🖥️ 3. Windows Server & Active Directory Virtual Lab
 
-A virtual enterprise environment developed for learning and practising Windows infrastructure administration and security.
+A virtual enterprise infrastructure environment developed for practical cybersecurity learning.
 
 **Key Features**
 
-- Active Directory Domain Services (AD DS) configuration.
+- Active Directory Domain Services configuration.
 - DNS and DHCP configuration.
 - User and group management.
 - Group Policy Objects (GPO).
@@ -121,28 +145,35 @@ A virtual enterprise environment developed for learning and practising Windows i
 
 **Technologies:** Windows Server, Active Directory, DNS, DHCP, VMware, VirtualBox.
 
+🔗 **Repository:** [Windows-Server-Virtual-Lab](https://github.com/DivaPatel0721/Windows-Server-Virtual-Lab)
+
 ---
 
-### 4. 🔍 TruthShield — Cybersecurity Tool
+### 🔍 4. Netric — Network & Packet Forensic Tool
 
-A cybersecurity-focused software development project involving backend implementation and deployment.
+A network and packet forensics project available in my GitHub repositories.
+
+🔗 **Repository:** [netric](https://github.com/DivaPatel0721/netric)
+
+---
+
+### 🔎 5. WebScan
+
+A Python-based repository listed among my cybersecurity projects.
+
+🔗 **Repository:** [webscan](https://github.com/DivaPatel0721/webscan)
+
+---
+
+### 🌐 6. Portable Cybersecurity Lab
+
+A virtual cybersecurity environment built using multiple operating systems and network security technologies.
 
 **Key Areas**
 
-- Backend application development.
-- Security-related application functionality.
-- Application implementation and deployment.
-
----
-
-### 5. 🌐 Portable Cybersecurity Lab
-
-A virtual cybersecurity environment built to explore network defense, infrastructure security, and practical security testing.
-
-**Key Features**
-
-- Integrated Kali Linux, Ubuntu, Windows and OPNsense.
-- Network segmentation and firewall configuration.
+- Kali Linux, Ubuntu, and Windows environments.
+- OPNsense firewall configuration.
+- Network segmentation.
 - Reconnaissance practice.
 - Network traffic and attack traffic analysis.
 
@@ -150,7 +181,7 @@ A virtual cybersecurity environment built to explore network defense, infrastruc
 
 ---
 
-### 6. ☁️ Cloud Security Project
+### ☁️ 7. Cloud Security Project
 
 An independent project focused on cloud security concepts and practical implementation.
 
@@ -158,21 +189,24 @@ An independent project focused on cloud security concepts and practical implemen
 
 ---
 
-## 🧪 Practical Environments & Learning Platforms
+## 🧪 Platforms & Practical Environments
 
-**Operating Systems & Virtualization**
+**Operating Systems**
 
 - Kali Linux
 - Ubuntu Linux
 - Windows 10/11
 - Windows Server
+
+**Virtualization & Infrastructure**
+
 - VMware Workstation
 - VirtualBox
 - Docker Desktop
-
-**Security & Industrial Environments**
-
 - OPNsense
+
+**Security Environments**
+
 - Security Onion
 - OpenPLC Runtime
 - ScadaBR
@@ -192,18 +226,18 @@ An independent project focused on cloud security concepts and practical implemen
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## 🌱 Currently Learning
 
 - Advanced Network Security
 - SOC Operations and Threat Detection
 - Security Monitoring and Log Analysis
-- Advanced Penetration Testing
+- Penetration Testing Methodologies
 - AI-Driven Cybersecurity
 - Industrial Control Systems and OT Security
 
 ---
 
-## 🤝 Collaboration
+## 🤝 Let's Collaborate
 
 I'm interested in collaborating on:
 
@@ -211,29 +245,54 @@ I'm interested in collaborating on:
 - Network security and monitoring projects.
 - AI/ML-based threat detection systems.
 - Python-based security automation.
-- Digital forensics and defensive security projects.
-- Industrial and OT security research.
+- Digital forensics and defensive security.
+- Industrial and OT security projects.
 
 ---
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true\&include_all_commits=true)" alt="GitHub Statistics" />   \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most Used Languages" /> \</p>
+\<p align="center">
+&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=DivaPatel0721&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=DivaPatel0721\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" alt="Diya's GitHub Statistics" />
+&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DivaPatel0721&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=DivaPatel0721\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most Used Languages" />
+\</p>
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true)" alt="GitHub Contribution Streak" /> \</p>
+\<p align="center">
+&#x20; \<img src="[https://streak-stats.demolab.com?user=DivaPatel0721&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=DivaPatel0721\&theme=tokyonight\&hide_border=true)" alt="GitHub Contribution Streak" />
+\</p>
 
-### 📈 Contribution Activity
+### 📈 Contribution Graph
 
-\<p align="center">   \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&theme=tokyo-night\&hide_border=true\&area=true)" width="100%" alt="GitHub Contribution Activity" /> \</p>
+\<p align="center">
+&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=DivaPatel0721&bg_color=1a1b27&color=70a5fd&line=38bdf8&point=ffffff&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=DivaPatel0721\&bg_color=1a1b27\&color=70a5fd\&line=38bdf8\&point=ffffff\&area=true\&hide_border=true)" width="100%" alt="Contribution Activity Graph" />
+\</p>
 
 ---
 
 ## 📫 Connect With Me
 
-\<p align="center">   \<a href="[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a>   \<a href="www\.linkedin.com/in/diya-patel-ab29a730b">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="diyapa0721\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a> \</p>
+\<p align="center">
+&#x20; \<a href="[https://github.com/DivaPatel0721](https://github.com/DivaPatel0721)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://www.linkedin.com/in/diya-patel-ab29a730b](https://www.linkedin.com/in/diya-patel-ab29a730b)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:diyapa0721\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />
+&#x20; \</a>
+\</p>
 
 ---
 
-\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=flat-square\&color=blue)" alt="Profile Views" /> \</p>
+\<p align="center">
+&#x20; \<img src="[https://komarev.com/ghpvc/?username=DivaPatel0721&style=flat-square&color=38BDF8&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=DivaPatel0721\&style=flat-square\&color=38BDF8\&label=PROFILE+VIEWS)" alt="Profile Views" />
+\</p>
 
-\<p align="center">   \<b>⚡ Learn. Build. Analyze. Secure.\</b>   \<br/>   \<i>Always learning. Always building. Focused on making systems more secure.\</i> \</p>
+\<h3 align="center">
+&#x20; ⚡ Learn. Build. Analyze. Secure.
+\</h3>
+
+\<p align="center">
+&#x20; \<i>Always learning. Always building. Focused on making systems more secure.\</i>
+\</p>

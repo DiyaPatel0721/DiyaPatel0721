@@ -24,39 +24,27 @@ I'm a cybersecurity student focused on securing digital infrastructure, investig
 
 ### 🛡️ BlackShield — AI Firewall Rule Generator
 Converts natural language instructions into firewall rules.
-- Supports Linux IPTables, Ubuntu UFW, Windows PowerShell, and Cisco ASA
-- AI-powered rule explanation and optimization
-- Batch processing, logging, and automated rule generation
 
 **Tech:** Python · AI · IPTables · UFW · PowerShell
 🔗 [Repository](https://github.com/DiyaPatel0721/Black-Shield)
 
 ---
 
-### 🤖 NETRAIC — AI-Powered Network Threat Detection
-Network anomaly detection focused on identifying unusual traffic.
-- Isolation Forest and Autoencoder models
-- Machine learning for network traffic analysis and threat detection
-
-**Tech:** Python · Scikit-learn · Isolation Forest · Autoencoders
-
----
-
 ### 🔍 Netric — Network & Packet Forensics Tool
 Network and packet forensics project.
-🔗 [Repository](https://github.com/DiyaPatel0721/netric)
+
 
 ---
 
 ### 📡 Wifi Phantom
 Wireless network security project exploring Wi-Fi traffic and wireless attack concepts.
-🔗 [Repository](https://github.com/DiyaPatel0721/wifi-phantom)
+
 
 ---
 
 ### 🔎 WebScan
 Python-based web security scanning project.
-🔗 [Repository](https://github.com/DiyaPatel0721/webscan)
+
 
 ---
 
@@ -67,14 +55,13 @@ Virtual enterprise environment for hands-on security learning.
 - Secure file sharing and account lockout policies
 
 **Tech:** Windows Server · Active Directory · VMware · VirtualBox
-🔗 [Repository](https://github.com/DiyaPatel0721/Windows-Server-Virtual-Lab)
+
 
 ---
 
 ### 🌐 Portable Cybersecurity Lab
 Multi-OS virtual lab for network security practice.
-- Kali Linux, Ubuntu, and Windows environments
-- OPNsense firewall and network segmentation
+- Kali Linux, Ubuntu, and Windows environments, OPNsense firewall and network segmentation
 - Reconnaissance and attack traffic analysis
 
 **Tech:** Kali Linux · OPNsense · VMware · VirtualBox
